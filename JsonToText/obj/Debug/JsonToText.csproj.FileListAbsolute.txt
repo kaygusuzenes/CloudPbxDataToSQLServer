@@ -1,0 +1,10 @@
+C:\Users\ENES\source\repos\JsonToText\JsonToText\bin\Debug\JsonToText.exe.config
+C:\Users\ENES\source\repos\JsonToText\JsonToText\bin\Debug\JsonToText.exe
+C:\Users\ENES\source\repos\JsonToText\JsonToText\bin\Debug\JsonToText.pdb
+C:\Users\ENES\source\repos\JsonToText\JsonToText\obj\Debug\JsonToText.csprojAssemblyReference.cache
+C:\Users\ENES\source\repos\JsonToText\JsonToText\obj\Debug\JsonToText.csproj.CoreCompileInputs.cache
+C:\Users\ENES\source\repos\JsonToText\JsonToText\obj\Debug\JsonToText.exe
+C:\Users\ENES\source\repos\JsonToText\JsonToText\obj\Debug\JsonToText.pdb
+C:\Users\ENES\source\repos\JsonToText\JsonToText\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ENES\source\repos\JsonToText\JsonToText\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ENES\source\repos\JsonToText\JsonToText\obj\Debug\JsonToText.csproj.CopyComplete
